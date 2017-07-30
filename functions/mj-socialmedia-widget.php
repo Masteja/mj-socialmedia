@@ -28,7 +28,7 @@ class mj_socialmedia_widget extends WP_Widget {
         $mj_socialmedia_pinterest = $mj_socialmedia_instance['pinterest'];
         $mj_socialmedia_snapchat = $mj_socialmedia_instance['snapchat'];
         $mj_socialmedia_linkedin = $mj_socialmedia_instance['linkedin'];
-        $mj_socialmedia_xing = $mj_socialmedia_instance['linkedin'];
+        $mj_socialmedia_xing = $mj_socialmedia_instance['xing'];
         ?>
         <p>Facebook Link: <input class="widefat" name="<?php echo $this->get_field_name('facebook'); ?>" type="text"
                                  value="<?php echo esc_attr($mj_socialmedia_facebook); ?>" /></p>
