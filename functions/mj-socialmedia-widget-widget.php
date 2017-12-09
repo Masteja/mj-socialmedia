@@ -79,7 +79,7 @@ class mj_socialmedia_widget extends WP_Widget {
         $mj_socialmedia_linkedin = apply_filters('widget_title', $mj_socialmedia_instance['linkedin']);
         $mj_socialmedia_xing = apply_filters('widget_title', $mj_socialmedia_instance['xing']);
 
-        echo '<div class="mj-socialmedia">';
+        echo '<div class="mj-socialmedia-widget">';
         if ($mj_socialmedia_facebook != null) {
             echo '<a href="' . $mj_socialmedia_facebook . '" target="blank"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>';
         }

@@ -23,7 +23,7 @@ You should have received a copy of the GNU General Public License
 along with MJ Social Media Widget. If not, see http://www.gnu.de/documents/gpl-2.0.de.html.
 */
 
-require_once(plugin_dir_path(__FILE__).'/functions/mj-socialmedia-font-awesome.php');
-require_once(plugin_dir_path(__FILE__).'/functions/mj-socialmedia-widget.php');
+require_once(plugin_dir_path(__FILE__).'/functions/mj-socialmedia-widget-font-awesome.php');
+require_once(plugin_dir_path(__FILE__).'/functions/mj-socialmedia-widget-widget.php');
 
 ?>
