@@ -5,7 +5,7 @@ Plugin URI:  http://www.markus-jahnel/
 Description: An easy Widget with font-awesome Integration who supports a variety of Social Media Channels
 Version:     1.0
 Author:      Markus Jahnel
-Author URI:  http://www.markus-jahnel/
+Author URI:  http://www.markus-jahnel.de/
 Text Domain: MJ Social Media
 License:     GPL2
 
